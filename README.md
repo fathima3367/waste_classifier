@@ -40,6 +40,11 @@ Many people struggle with proper waste disposal. This simple AI app helps users 
 
 ---
 
+## 🔗 Download the Trained Model
+- [View on Google Drive](https://drive.google.com/file/d/1eUFPzXLqIfnWlm-xM9B2m4Ps-IdgGhnH/view?usp=drive_link)
+- [Direct Download](https://drive.google.com/uc?export=download&id=1eUFPzXLqIfnWlm-xM9B2m4Ps-IdgGhnH)
+
+
 ## 🚀 How to Run Locally
 
 ```bash
@@ -47,4 +52,5 @@ git clone https://github.com/yourusername/waste-classifier-app.git
 cd waste-classifier-app
 pip install -r requirements.txt
 python app.py
+
 
