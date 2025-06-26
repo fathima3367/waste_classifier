@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+ENV/
+env/
+
+# TensorFlow model checkpoints and logs
+checkpoint
+*.ckpt
+*.h5
+*.pb
+*.tflite
+logs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# PyCharm / VSCode / JetBrains IDEs
+.idea/
+.vscode/
+
+# Gradio local cache
+gradio_cached_examples/
+
+# Pip wheels
+*.whl
+
+# Backup files
+*.bak
+*.tmp
+*.log
+
+# Hugging Face token cache
+~/.huggingface/
+
+# Uploads (if any temporary files)
+uploads/
