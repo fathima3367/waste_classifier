@@ -41,8 +41,7 @@ Many people struggle with proper waste disposal. This simple AI app helps users 
 ---
 
 ## 🔗 Download the Trained Model
-- [View on Google Drive](https://drive.google.com/file/d/1eUFPzXLqIfnWlm-xM9B2m4Ps-IdgGhnH/view?usp=drive_link)
-- [Direct Download](https://drive.google.com/uc?export=download&id=1eUFPzXLqIfnWlm-xM9B2m4Ps-IdgGhnH)
+(https://huggingface.co/spaces/fathima-ai/waste_classifier2/blob/main/waste_classifier_model.h5)
 
 
 ## 🚀 How to Run Locally
