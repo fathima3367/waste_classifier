@@ -47,7 +47,7 @@ Many people struggle with proper waste disposal. This simple AI app helps users 
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/waste-classifier-app.git
+git clone https://github.com/fathima3367/waste_classifier.git
 cd waste-classifier-app
 pip install -r requirements.txt
 python app.py
